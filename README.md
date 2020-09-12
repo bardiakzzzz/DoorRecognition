@@ -4,7 +4,7 @@ Find state of the door in a video using computer vision operations like Hough li
 
 ![Alt Text](https://github.com/bardiakzzzz/DoorRecognition/blob/master/images/1.png)
 ![Alt Text](https://github.com/bardiakzzzz/DoorRecognition/blob/master/images/2.png)
-![Alt Text](https://github.com/bardiakzzzz/DoorRecognition/blob/master/images/2.png)
+![Alt Text](https://github.com/bardiakzzzz/DoorRecognition/blob/master/images/3.png)
 
 
 ## Requirements
